@@ -1,6 +1,5 @@
 import Home from "../views/Home/Home";
 import Classify from "../views/Classify/Classify";
-import GroupBuying from "../views/Group-buying/GroupBuying";
 import ShoppingTrolley from "../views/Shopping-trolley/ShoppingTrolley";
 import My from "../views/My/My";
 
@@ -14,10 +13,6 @@ const routes = [
         component: Classify
     },
     {
-        path: '/GroupBuying',
-        component: GroupBuying
-    },
-    {
         path: '/ShoppingTrolley',
         component: ShoppingTrolley
     },
@@ -28,7 +23,7 @@ const routes = [
 
     {
         path:'/',
-        redirect:'/Home'
+        redirect:'/Classify'
     }
 
 ]

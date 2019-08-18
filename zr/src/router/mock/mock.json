@@ -1,0 +1,122 @@
+[
+    {
+        "name":"推荐专区",
+        "type":0,
+        "con":{
+            "image": "https://gw.alicdn.com/bao/uploaded/i1/3583971503/O1CN0115WgEl1MyPn62LZmc_!!3583971503.jpg",
+            "list":[
+                {
+                    "id":0,
+                    "title": "北京周边",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i1/3583971503/O1CN0115WgEl1MyPn62LZmc_!!3583971503.jpg"
+                },
+                {
+                    "id":1,
+                    "title": "小马代",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i1/3583971503/O1CN0115WgEl1MyPn62LZmc_!!3583971503.jpg"
+                },
+                {
+                    "id":2,
+                    "title": "周边小马代",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i1/3583971503/O1CN0115WgEl1MyPn62LZmc_!!3583971503.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name":"美食小吃",
+        "type":1,
+        "con":{
+            "image": "https://gw.alicdn.com/bao/uploaded/i4/TB10WW2SXXXXXb0XVXXQh3.8pXX_025214.jpg",
+            "list":[
+                {
+                    "id":3,
+                    "title": "好吃的东西",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i4/TB10WW2SXXXXXb0XVXXQh3.8pXX_025214.jpg"
+                },
+                {
+                    "id":4,
+                    "title": "好玩的东西",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i4/TB10WW2SXXXXXb0XVXXQh3.8pXX_025214.jpg"
+                },
+                {
+                    "id":5,
+                    "title": "好东西",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i4/TB10WW2SXXXXXb0XVXXQh3.8pXX_025214.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name":"清凉一夏",
+        "type":2,
+        "con":{
+            "image": "https://gw.alicdn.com/bao/uploaded/i3/303751380/O1CN011M452KZpn54OImM_!!303751380.jpg",
+            "list":[
+                {
+                    "id":6,
+                    "title": "清凉一夏",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/303751380/O1CN011M452KZpn54OImM_!!303751380.jpg"
+                },
+                {
+                    "id":7,
+                    "title": "清凉",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/303751380/O1CN011M452KZpn54OImM_!!303751380.jpg"
+                },
+                {
+                    "id":8,
+                    "title": "清凉一夏天",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/303751380/O1CN011M452KZpn54OImM_!!303751380.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name":"爆屏专区",
+        "type":3,
+        "con":{
+            "image": "https://gw.alicdn.com/bao/uploaded/i3/1108683156/O1CN01KhJQb21ZBUU3iBCti_!!1108683156.jpg",
+            "list":[
+                {
+                    "id":9,
+                    "title": "爆屏专区",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/1108683156/O1CN01KhJQb21ZBUU3iBCti_!!1108683156.jpg"
+                },
+                {
+                    "id":10,
+                    "title": "爆屏",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/1108683156/O1CN01KhJQb21ZBUU3iBCti_!!1108683156.jpg"
+                },
+                {
+                    "id":11,
+                    "title": "爆拼物品",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/1108683156/O1CN01KhJQb21ZBUU3iBCti_!!1108683156.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name":"个人物品",
+        "type":4,
+        "con":{
+            "image": "https://gw.alicdn.com/bao/uploaded/i3/1123437233/TB2ddcbz25TBuNjSspcXXbnGFXa_!!1123437233.jpg",
+            "list":[
+                {
+                    "id":12,
+                    "title": "个人",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/1123437233/TB2ddcbz25TBuNjSspcXXbnGFXa_!!1123437233.jpg"
+                },
+                {
+                    "id":13,
+                    "title": "卫生纸",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/1123437233/TB2ddcbz25TBuNjSspcXXbnGFXa_!!1123437233.jpg"
+                },
+                {
+                    "id":14,
+                    "title": "洗衣粉",
+                    "image": "https://gw.alicdn.com/bao/uploaded/i3/1123437233/TB2ddcbz25TBuNjSspcXXbnGFXa_!!1123437233.jpg"
+                }
+            ]
+        }
+    }
+]
